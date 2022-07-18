@@ -1,0 +1,1 @@
+function inches(in) = 25.4 * in; // inches --> mm
