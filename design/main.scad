@@ -2,7 +2,7 @@ include<NopSCADlib/lib.scad>
 include<control-housing.scad>
 include<structure.scad>
 
-// rotation for STL export purposes
+// rotation for STL export purposes, comment out for viewing in OpenSCAD
 rotate([-90, 0, 0]) {
 
     // microcontroller 
